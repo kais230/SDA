@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610952110 source:d:\info\partitii numar\main.cpp
+	<iostream>
+	<fstream>
+

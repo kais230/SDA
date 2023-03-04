@@ -1,0 +1,4 @@
+﻿  2.cpp
+D:\info poo\s3\2\2\2.cpp(149,32): warning C4101: 'x': unreferenced local variable
+D:\info poo\s3\2\2\2.cpp(114): warning C4172: returning address of local variable or temporary: c
+  2.vcxproj -> D:\info poo\s3\2\Debug\2.exe

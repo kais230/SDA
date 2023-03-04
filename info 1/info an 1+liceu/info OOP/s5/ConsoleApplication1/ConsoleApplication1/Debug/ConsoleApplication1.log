@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\info poo\s5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(113,6): error C2660: 'dreptunghi::validare_dreptunghi': function does not take 8 arguments
+D:\info poo\s5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(76,7): message : see declaration of 'dreptunghi::validare_dreptunghi'
+D:\info poo\s5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(120,6): error C2660: 'patrat::validare_patrat': function does not take 8 arguments
+D:\info poo\s5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,7): message : see declaration of 'patrat::validare_patrat'

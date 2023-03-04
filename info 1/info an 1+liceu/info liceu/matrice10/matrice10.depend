@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602785764 source:d:\info\matrice10\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602857961 source:d:\info\zona4\main.cpp
+	<iostream>
+	<fstream>
+

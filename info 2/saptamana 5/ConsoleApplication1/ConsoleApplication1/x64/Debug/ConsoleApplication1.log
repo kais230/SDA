@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\info\saptamana 5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(110,1): error C2514: 'Node': class template cannot be constructed
+D:\info\saptamana 5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12): message : see declaration of 'Node'
+D:\info\saptamana 5\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(110): message : see reference to class template instantiation 'List<T>' being compiled

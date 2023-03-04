@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613675316 source:d:\info\interval\main.cpp
+	<iostream>
+	<math.h>
+

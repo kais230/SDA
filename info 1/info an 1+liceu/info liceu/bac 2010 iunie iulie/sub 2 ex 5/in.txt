@@ -1,0 +1,2 @@
+Reprezentat cu 4 zecimale PI este 3.1415 si e este 2.7182
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602786659 source:d:\info\chenar1\main.cpp
+	<iostream>
+	<fstream>
+

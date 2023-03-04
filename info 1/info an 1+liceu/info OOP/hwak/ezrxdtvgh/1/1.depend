@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653294714 source:d:\info poo\hwak\ezrxdtvgh\1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+

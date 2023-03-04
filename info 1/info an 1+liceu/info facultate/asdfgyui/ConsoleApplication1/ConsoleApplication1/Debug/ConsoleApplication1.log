@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol "public: __thiscall vinh::vinh(void)" (??0vinh@@QAE@XZ) referenced in function _main
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol "public: __thiscall vinh::~vinh(void)" (??1vinh@@QAE@XZ) referenced in function _main
+D:\info facultate\asdfgyui\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 2 unresolved externals

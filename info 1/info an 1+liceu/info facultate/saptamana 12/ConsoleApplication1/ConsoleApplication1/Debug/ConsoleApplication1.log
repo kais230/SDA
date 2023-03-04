@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+D:\info facultate\saptamana 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,9): warning C4476: 'printf' : unknown type field character ')' in format specifier
+D:\info facultate\saptamana 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\info facultate\saptamana 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(13,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\info facultate\saptamana 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\info facultate\saptamana 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,7): error C2065: 's': undeclared identifier
+D:\info facultate\saptamana 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,10): error C2065: 'l': undeclared identifier
+D:\info facultate\saptamana 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,13): error C2065: 'p': undeclared identifier
+D:\info facultate\saptamana 12\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,16): error C2065: 'd': undeclared identifier

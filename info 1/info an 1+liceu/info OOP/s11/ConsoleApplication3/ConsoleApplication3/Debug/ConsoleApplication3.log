@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3.cpp
+D:\info poo\s11\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(44,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\info poo\s11\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(84,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\info poo\s11\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(112,10): error C3668: 'Carti_Rare::Adaugare': method with override specifier 'override' did not override any base class methods
+D:\info poo\s11\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(133,10): error C3668: 'Carti_Rare::Extragere': method with override specifier 'override' did not override any base class methods

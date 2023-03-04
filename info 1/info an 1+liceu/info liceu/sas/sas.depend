@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618903763 source:d:\info\sas\main.cpp
+	<iostream>
+	<string.h>
+

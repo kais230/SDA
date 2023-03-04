@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610721729 source:d:\info\2010 bac n\main.cpp
+	<iostream>
+	<fstream>
+
